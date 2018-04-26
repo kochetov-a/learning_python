@@ -13,7 +13,62 @@
     <favorites_list name="python_work" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="17_favorite_language.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9 Сlasses/17_favorite_language.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4_user.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 6 Dictionary/4_user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="28" lean-forward="true" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19_ex_random.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9 Сlasses/19_ex_random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pi_digits.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 Files and Exeptions/pi_digits.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_file_reader.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 10 Files and Exeptions/1_file_reader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9_ex_admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 9 Сlasses/9_ex_admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" selection-start-line="35" selection-end-line="36" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,11 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter 8 (functions)/10_ex_makeAlbum.py" />
-        <option value="$PROJECT_DIR$/Chapter 8 (functions)/11_ex_makeAlbum_while.py" />
-        <option value="$PROJECT_DIR$/Chapter 8 (functions)/12_greet_users.py" />
-        <option value="$PROJECT_DIR$/Chapter 8 (functions)/13_printing_models.py" />
-        <option value="$PROJECT_DIR$/Chapter 8 (functions)/14_ex_showMagicians.py" />
         <option value="$PROJECT_DIR$/Chapter 8 (functions)/16_user_profile_randomCountArg.py" />
         <option value="$PROJECT_DIR$/Chapter 8 (functions)/17_make_sandwich.py" />
         <option value="$PROJECT_DIR$/Chapter 8 (functions)/18_user_profile_2.py" />
@@ -76,6 +126,11 @@
         <option value="$PROJECT_DIR$/Chapter 9 Сlasses/16_ex_new_user.py" />
         <option value="$PROJECT_DIR$/Chapter 9 Сlasses/admin_class.py" />
         <option value="$PROJECT_DIR$/Chapter 9 Сlasses/user_class.py" />
+        <option value="$PROJECT_DIR$/Chapter 9 Сlasses/17_favorite_language.py" />
+        <option value="$PROJECT_DIR$/Chapter 9 Сlasses/18_ex_users.py" />
+        <option value="$PROJECT_DIR$/Chapter 9 Сlasses/19_ex_random.py" />
+        <option value="$PROJECT_DIR$/Chapter 10 Files and Exeptions/pi_digits.txt" />
+        <option value="$PROJECT_DIR$/Chapter 10 Files and Exeptions/1_file_reader.py" />
       </list>
     </option>
   </component>
@@ -108,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,12 +173,13 @@
             <path>
               <item name="learning_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning_python" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 9 Сlasses" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 10 Files and Exeptions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,61 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.16_ex_new_user">
-    <configuration name="12_my_car" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 Сlasses" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 Сlasses/12_my_car.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="14_my_cars" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 Сlasses" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 Сlasses/14_my_cars.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="15_ex_my_restaraunt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 Сlasses" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 Сlasses/15_ex_my_restaraunt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.1_file_reader">
     <configuration name="16_ex_new_user" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,7 +226,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="user_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17_favorite_language" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +238,61 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 Сlasses/user_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 Сlasses/17_favorite_language.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="18_ex_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 Сlasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 Сlasses/18_ex_users.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="19_ex_random" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 9 Сlasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 9 Сlasses/19_ex_random.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1_file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 10 Files and Exeptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 10 Files and Exeptions/1_file_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,19 +361,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.12_my_car" />
-      <item itemvalue="Python.14_my_cars" />
-      <item itemvalue="Python.15_ex_my_restaraunt" />
       <item itemvalue="Python.16_ex_new_user" />
-      <item itemvalue="Python.user_class" />
+      <item itemvalue="Python.17_favorite_language" />
+      <item itemvalue="Python.18_ex_users" />
+      <item itemvalue="Python.19_ex_random" />
+      <item itemvalue="Python.1_file_reader" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1_file_reader" />
+        <item itemvalue="Python.19_ex_random" />
+        <item itemvalue="Python.18_ex_users" />
+        <item itemvalue="Python.17_favorite_language" />
         <item itemvalue="Python.16_ex_new_user" />
-        <item itemvalue="Python.user_class" />
-        <item itemvalue="Python.12_my_car" />
-        <item itemvalue="Python.15_ex_my_restaraunt" />
-        <item itemvalue="Python.14_my_cars" />
       </list>
     </recent_temporary>
   </component>
@@ -347,16 +402,16 @@
   <component name="ToolWindowManager">
     <frame x="-288" y="-1088" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49574107" visible="true" weight="0.114605546" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49574107" visible="true" weight="0.11567164" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32760596" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
-      <window_info anchor="right" auto_hide="true" content_ui="combo" x="199" y="529" width="1268" height="313" id="Run" order="4" weight="0.34541577" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32646048" />
+      <window_info anchor="right" auto_hide="true" content_ui="combo" x="199" y="529" width="1268" height="313" id="Run" order="4" weight="0.34541577" />
       <window_info id="Structure" order="1" sideWeight="0.50425893" side_tool="true" weight="0.22286618" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3024055" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.4044199" />
       <window_info id="Favorites" order="2" sideWeight="0.50425893" side_tool="true" weight="0.22286618" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4044199" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -369,22 +424,22 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49574107" visible="true" weight="0.22286618" />
-      <window_info anchor="bottom" auto_hide="true" content_ui="combo" x="199" y="529" width="1268" height="313" id="Run" order="10" weight="0.2620321" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" weight="0.32924962" />
       <window_info id="Structure" order="1" sideWeight="0.50425893" side_tool="true" weight="0.22286618" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32760596" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" auto_hide="true" content_ui="combo" x="199" y="529" width="1268" height="313" id="Run" order="10" weight="0.2620321" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32646048" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.40630183" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3024055" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50425893" side_tool="true" weight="0.22286618" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32646048" />
+      <window_info id="Favorites" order="2" sideWeight="0.50425893" side_tool="true" weight="0.22286618" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -401,55 +456,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 7/13_infiniteLoop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/10_tiketPriceQuitOnCondition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/18_removePastrami.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/17_sandwich_orders.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-end-line="3" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/16_mountaine_poll.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 7/14_confirmed_users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 8 Functions/11_ex_makeAlbum_while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 8 Functions/8_greeter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -723,13 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 9 Сlasses/9_ex_admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" selection-start-line="35" selection-end-line="36" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 9 Сlasses/15_ex_my_restaraunt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -755,9 +754,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 6 Dictionary/3_favorite_languages.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 Сlasses/17_favorite_language.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 Сlasses/18_ex_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 6 Dictionary/4_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" lean-forward="true" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 Сlasses/9_ex_admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9 Сlasses/19_ex_random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 Files and Exeptions/pi_digits.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 10 Files and Exeptions/1_file_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
